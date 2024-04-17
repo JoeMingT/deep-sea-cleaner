@@ -37,3 +37,7 @@ Spacebar: Jump <br/>
 Z: Change Modes <br/>
 Esc: Exit/Quit/Cancel
 
+<br />
+
+### Acknowledgements
+Most of these assets that I have used are taken from online. Credit foes to the original source. Unfortunately as this is an old project and back then I'm bad with crediting things, as such I have lost all links to credits. But I believe if you search hard enough you may be able to find all of the sources.
