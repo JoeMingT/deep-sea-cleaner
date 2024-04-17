@@ -1,0 +1,30 @@
+{
+    "sound": 0.5,
+    "music": 0.5,
+    "first_run": false,
+    "death_count": 7,
+    "level_0_status": {
+        "clear": true,
+        "diamond_collected": false,
+        "best_time": 55040,
+        "unlocked": true
+    },
+    "level_1_status": {
+        "clear": false,
+        "diamond_collected": false,
+        "best_time": 0,
+        "unlocked": true
+    },
+    "level_2_status": {
+        "clear": false,
+        "diamond_collected": false,
+        "best_time": 0,
+        "unlocked": false
+    },
+    "level_3_status": {
+        "clear": false,
+        "diamond_collected": false,
+        "best_time": 0,
+        "unlocked": false
+    }
+}
