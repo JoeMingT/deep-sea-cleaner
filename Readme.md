@@ -1,5 +1,5 @@
 # Deep Sea Cleaner
-This is a game project created using Python and Pygame. It was made in 2021, tested on 17th April 2024. It works fine except for some bugs and print errors. 
+This is a game project created using Python and Pygame for a local Game Jam in university. It was made in 2021, tested on 17th April 2024 on a new system and still works.
 
 **System tested on:** <br/>
 OS: Arch Linux, Linux LTS 6.6.27, KDS Plasma 6, Wayland Compositor <br/>
@@ -11,33 +11,36 @@ Graphics: Built-in <br/>
 Python 3.11.8 <br/>
 pygame 2.5.2 <br/>
 
+Insert Montage Video of the Game Here
+
+> [!warning]
+> <b>THIS GAME IS NOT IN DEVELOPMENT ANYMORE. IF THERE ARE ISSUES RUNNING THE CODE, REVERT TO AN OLDER VERSION OF DEPENDENCIES SHOULD RESOLVE IT.</b>
+
+---
+
+<br />
 <br />
 
-### To Start the Game
-Download or git clone the repository. <br/>
-`git clone Repo-Link`
+## Installation
 
-Then, install pygame for your python interpretor or virtual environment. <br/>
+1. Download or git clone the repository. <br/>
+`git clone https://github.com/JoeMingT/deep-sea-cleaner`
+
+2. Then, install pygame for your python interpretor or virtual environment. <br/>
 `pip install pygame`
 
-Finally, run the `main.py` file using your python interpreter <br/>
+3. Finally, run the `main.py` file using your python interpreter <br/>
 `python main.py`
 
-
-<br />
-
-### Prerequisites
-Python version 3.11 installed.
-
-<br />
-
-### Controls
+## Controls
 Arrow Keys: Movement <br/>
 Spacebar: Jump <br/>
 Z: Change Modes <br/>
 Esc: Exit/Quit/Cancel
 
-<br />
+## Screenshots
 
-### Acknowledgements
+
+
+## Acknowledgements
 Most of these assets that I have used are taken from online. Credit foes to the original source. Unfortunately as this is an old project and back then I'm bad with crediting things, as such I have lost all links to credits. But I believe if you search hard enough you may be able to find all of the sources.
