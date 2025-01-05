@@ -33,10 +33,14 @@ Insert Montage Video of the Game Here
 `python main.py`
 
 ## Controls
-Arrow Keys: Movement <br/>
-Spacebar: Jump <br/>
-Z: Change Modes <br/>
-Esc: Exit/Quit/Cancel
+
+| Key           | Action               |
+| ------------- | -------------------- |
+| Arrow Keys    | Move                 |
+| Spacebar      | Jump or Confirm      |
+| Z             | Activate Scuba Gear  |
+| Esc           | Exit, Quit or Cancel |
+
 
 ## Screenshots
 
