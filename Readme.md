@@ -43,7 +43,10 @@ Insert Montage Video of the Game Here
 
 
 ## Screenshots
-
+![Main Menu Screenshot](./Screenshots/Screenshot-MainMenu.png)
+![Gameplay Screenshot](./Screenshots/Screenshot-Gameplay.png)
+![Leaderboard Screenshot](./Screenshots/Screenshot-Leaderboards.png)
+![Game Over Screenshot](./Screenshots/Screenshot-GameOver.png)
 
 
 ## Acknowledgements
