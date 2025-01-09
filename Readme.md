@@ -11,8 +11,6 @@ Graphics: Built-in <br/>
 Python 3.11.8 <br/>
 pygame 2.5.2 <br/>
 
-Insert Montage Video of the Game Here
-
 > [!warning]
 > <b>THIS GAME IS NOT IN DEVELOPMENT ANYMORE. IF THERE ARE ISSUES RUNNING THE CODE, REVERT TO AN OLDER VERSION OF DEPENDENCIES SHOULD RESOLVE IT.</b>
 
