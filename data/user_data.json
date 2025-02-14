@@ -2,29 +2,29 @@
     "sound": 0.5,
     "music": 0.5,
     "first_run": false,
-    "death_count": 149,
+    "death_count": 0,
     "level_0_status": {
         "clear": true,
         "diamond_collected": false,
-        "best_time": 22700,
+        "best_time": 26469,
         "unlocked": true
     },
     "level_1_status": {
         "clear": true,
-        "diamond_collected": true,
-        "best_time": 18000,
+        "diamond_collected": false,
+        "best_time": 19419,
         "unlocked": true
     },
     "level_2_status": {
-        "clear": true,
+        "clear": false,
         "diamond_collected": false,
-        "best_time": 47621,
+        "best_time": 0,
         "unlocked": true
     },
     "level_3_status": {
-        "clear": true,
+        "clear": false,
         "diamond_collected": false,
-        "best_time": 35770,
-        "unlocked": true
+        "best_time": 0,
+        "unlocked": false
     }
 }
