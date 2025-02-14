@@ -1,7 +1,7 @@
 # Deep Sea Cleaner
 This is a game project created using Python and Pygame for a local Game Jam in university. It was made in 2021, tested on 17th April 2024 on a new system and still works.
 
-![Video Example](./Videos/Sample-Video.mkv)
+![Video Example](./Videos/Sample-Video.mp4)
 
 **System tested on:** <br/>
 OS: Arch Linux, Linux LTS 6.6.27, KDS Plasma 6, Wayland Compositor <br/>
